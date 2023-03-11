@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://i.pinimg.com/474x/61/14/2e/61142eabad5ecedcb431735a2dbd3519.jpg);
+  background-size: cover;
+}
+
+h2 {
+  text-align: center;
+}
+
+.input {
+  border-radius: 15px;
+}
+
+.btn {
+  background-color: rgb(110, 73, 27);
+}
+.btn:hover {
+  background-color: #d93737;
+}
